@@ -1,0 +1,18 @@
+# Node specific
+node_modules
+build
+npm-debug.log
+
+# Environment variables for local dev and testing
+.env
+.test.env
+
+
+# Mac_OS
+.DS_Store
+
+# Database for local dev and testing
+
+
+#Env Directory
+env/ 
